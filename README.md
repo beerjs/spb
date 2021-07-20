@@ -2,6 +2,7 @@
 
 BeerJS: Saint Petersburg, Russia
 
+Встречи с пивом 2 раза в месяц по четвергам
 [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerjs_spb)
 
 
@@ -9,6 +10,8 @@ BeerJS: Saint Petersburg, Russia
 
 | Бар                         | Адрес                | Метро             |
 | --------------------------- | -------------------- | ----------------- |
+| **Tween Peaks**             | Лиговский 9/31       | Восстания         |
+| **Sea Can**                 | Большой пр ВО, 16    | Василеостровская  |
 | **Заря**                    | Маяковского 40       | Чернышевская      |
 | **Люминос**                 | Ломоносова 13        | Достоевская       |
 | **Krng Corp**               | Кожевенная линия 40Д |                   |
